@@ -1,0 +1,5 @@
+Match Text,Match On,Canonical Vendor,GL Code,Default Currency,Extraction Notes,Active
+acme,VENDOR_NAME,Acme Supplies Inc.,6100-Office Supplies,USD,"Acme puts the PO number in the top-right box labelled Ref.",TRUE
+clearview facility,VENDOR_NAME,Clearview Facility Services,6200-Facility Services,USD,,TRUE
+pacific print,VENDOR_NAME,Pacific Print Studio,6300-Printing,USD,,TRUE
+cedar table,VENDOR_NAME,Cedar Table Catering,6400-Catering,USD,,TRUE

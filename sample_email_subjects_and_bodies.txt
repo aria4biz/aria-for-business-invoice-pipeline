@@ -1,0 +1,82 @@
+ARIA INVOICE PIPELINE — SYNTHETIC EMAIL EXAMPLES
+All vendors, addresses, amounts and transaction details are fictional.
+
+1) ACME SUPPLIES
+Subject: [Aria Invoice Demo] Acme Supplies | Invoice ACS-DEMO-1002 | Office supplies
+Body:
+Hi Accounts Payable,
+
+Attached is invoice ACS-DEMO-1002 for the office supplies delivered on October 30.
+The total is $832.14, including the illustrative sales tax, against purchase order PO-DEMO-2101.
+The due date shown on the invoice is December 2, 2026.
+
+Thank you,
+Billing Team
+Acme Supplies Inc.
+
+DEMO ONLY: This invoice is fictional. No payment is due.
+
+2) WESTBRIDGE IT SERVICES
+Subject: [Aria Invoice Demo] Westbridge IT | October support invoice WIT-DEMO-2001
+Body:
+Hello AP Team,
+
+Please find attached invoice WIT-DEMO-2001 for IT support provided from October 1–31, 2026.
+It covers managed support, endpoint monitoring, additional help desk hours, and cloud backup.
+Invoice total: $1,486.00
+Purchase order: PO-DEMO-2102
+Due date shown: November 17, 2026
+
+Best regards,
+Accounts Team
+Westbridge IT Services
+
+DEMO ONLY: This invoice is fictional. No payment is due.
+
+3) CLEARVIEW FACILITY SERVICES
+Subject: [Aria Invoice Demo] Clearview | October cleaning invoice CFS-DEMO-3001
+Body:
+Hi Accounts Payable,
+
+Attached is invoice CFS-DEMO-3001 for October cleaning and facility services at Demo Headquarters.
+The invoice lists the cleaning visits, supply replenishment, glass cleaning, and floor cleaning separately.
+The total is $1,676.00. Please reference PO-DEMO-2103 when routing it for review.
+
+Thank you,
+Client Billing
+Clearview Facility Services
+
+DEMO ONLY: This invoice is fictional. No payment is due.
+
+4) PACIFIC PRINT STUDIO
+Subject: [Aria Invoice Demo] Pacific Print | Invoice PPS-DEMO-4001 | Workshop materials
+Body:
+Hello,
+
+Your invoice for the team workshop print order is attached: PPS-DEMO-4001.
+The materials were delivered on October 30, and the invoice includes booklets, badge inserts, signs, and artwork setup.
+Total: $720.36, including illustrative sales tax
+PO reference: PO-DEMO-2104
+Due date shown: November 17, 2026
+
+Kind regards,
+Studio Accounts
+Pacific Print Studio
+
+DEMO ONLY: This invoice is fictional. No payment is due.
+
+5) CEDAR TABLE CATERING
+Subject: [Aria Invoice Demo] Cedar Table | Workshop catering invoice CTC-DEMO-5001
+Body:
+Hi AP Team,
+
+Attached is invoice CTC-DEMO-5001 for the October 29 team workshop.
+The invoice includes boxed lunches, coffee service, pastries, and fruit platters.
+The invoice total is $956.34, including illustrative sales tax.
+It references PO-DEMO-2105, with a due date of November 9, 2026.
+
+Warm regards,
+Events Team
+Cedar Table Catering
+
+DEMO ONLY: This invoice is fictional. No payment is due.
