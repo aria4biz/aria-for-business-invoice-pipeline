@@ -32,7 +32,6 @@ Place the JSON configuration in `appsscript.json`, not in a `.gs` file.
 - [Westbridge IT Services](02_Westbridge_IT_WIT-DEMO-2001.pdf)
 - [Clearview Facility Services](03_Clearview_Facility_CFS-DEMO-3001.pdf)
 - [Pacific Print Studio](04_Pacific_Print_PPS-DEMO-4001.pdf)
+- [Cedar Table Catering](05_Cedar_Table_CTC-DEMO-5001.pdf)
 
-The complete ZIP also includes the Cedar Table Catering invoice.
-
-All sample invoices are fictional and marked NOT PAYABLE.
+All five sample invoices are fictional and marked NOT PAYABLE.
